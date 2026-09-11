@@ -16,8 +16,9 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 6.Stop the program
 <BR>
 ## Program 
-##server code:
 ```
+##server code:
+
 import socket
 import os
 
