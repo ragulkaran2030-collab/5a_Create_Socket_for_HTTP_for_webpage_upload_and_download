@@ -128,7 +128,9 @@ while True:
         connection.sendall(response)
 
     connection.close()
-  ##client code:
+
+##client code:
+
   import socket
 import os
 import webbrowser
